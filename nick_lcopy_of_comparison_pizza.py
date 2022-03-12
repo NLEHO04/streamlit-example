@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/10_AzXcaFYRpgwWaeEJ5KskeNE3VZhTDp
 """
 
-!pip install mplsoccer
-
 !pip install highlight-text
 
 import matplotlib.pyplot as plt
